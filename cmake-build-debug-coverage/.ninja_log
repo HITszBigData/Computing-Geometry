@@ -1,0 +1,11 @@
+# ninja log v5
+0	109	7327284572144270	CMakeFiles/Comp_Geo.dir/bresenham_line.c.obj	e0d3c30834e91b69
+2	102	7327287114832863	CMakeFiles/Comp_Geo.dir/main.c.obj	564879b2159d2492
+13	121	7327284572260591	CMakeFiles/Comp_Geo.dir/bresenham_circle.c.obj	7091d240eae01622
+103	231	7327287116080424	Comp_Geo.exe	33e7e3a8c8d5528e
+9	209	7328088579924365	CMakeFiles/Comp_Geo.dir/lf_loop.c.obj	7c6117e2b1c902f6
+3	214	7328088579974374	CMakeFiles/Comp_Geo.dir/main.c.obj	564879b2159d2492
+13	543	7328088583270170	CMakeFiles/Comp_Geo.dir/quick_sort.cpp.obj	b6c62b47a0561f23
+4	55	7328089019380569	CMakeFiles/Comp_Geo.dir/main.c.obj	564879b2159d2492
+8	86	7328089872064969	CMakeFiles/Comp_Geo.dir/lf_loop.c.obj	7c6117e2b1c902f6
+4	92	7328089872134390	CMakeFiles/Comp_Geo.dir/main.c.obj	564879b2159d2492

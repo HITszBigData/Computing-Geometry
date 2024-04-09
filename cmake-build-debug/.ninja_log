@@ -1,0 +1,6 @@
+# ninja log v5
+7	99	7327283440028547	CMakeFiles/Comp_Geo.dir/main.c.obj	188085735ce97a76
+6	93	7327278563371163	CMakeFiles/Comp_Geo.dir/bresenham_line.c.obj	809048148c7473b0
+99	219	7327283441195221	Comp_Geo.exe	8f231ba43bd40aee
+1	167	7328087699580309	build.ninja	37c20462cd215f5e
+2	86	7327283439893032	CMakeFiles/Comp_Geo.dir/bresenham_circle.c.obj	a2ef0bd10e6ebb1f
